@@ -14,3 +14,7 @@
 - [EVL CUP 2024/04-2]() - 13.04.2024
 - [EVL CUP 2024/04-3]() - 20.04.2024
 - [EVL CUP 2024/04-4]() - 27.04.2024
+
+## Корисна інформація
+- [Правила](https://github.com/Eviloma/evl-cup/blob/master/rules.md)
+- [Правила нарахування очків](https://github.com/Eviloma/evl-cup/blob/master/points.md)
