@@ -22,4 +22,4 @@
 - Ascedant 3: 2000 ELO
 - Immortal: 2100+ ELO
 
-Ваше ELO = ваще звання + ELO в грі
+Ваше ELO = ваше звання + ELO в грі
